@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\main.dir\\data.cpp.obj -c \"C:\\Users\\Phuoc Hoan\\OneDrive - VNU-HCMUS\\Work Space\\My Uni\\Operating Systems\\Exercise\\Assignment 03_04\\2\\File-System\\data.cpp\"",
+  "file": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/data.cpp",
+  "output": "CMakeFiles/main.dir/data.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\Phuoc Hoan\\OneDrive - VNU-HCMUS\\Work Space\\My Uni\\Operating Systems\\Exercise\\Assignment 03_04\\2\\File-System\\main.cpp\"",
+  "file": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\main.dir\\system.cpp.obj -c \"C:\\Users\\Phuoc Hoan\\OneDrive - VNU-HCMUS\\Work Space\\My Uni\\Operating Systems\\Exercise\\Assignment 03_04\\2\\File-System\\system.cpp\"",
+  "file": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/system.cpp",
+  "output": "CMakeFiles/main.dir/system.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++23 -o CMakeFiles\\main.dir\\volume.cpp.obj -c \"C:\\Users\\Phuoc Hoan\\OneDrive - VNU-HCMUS\\Work Space\\My Uni\\Operating Systems\\Exercise\\Assignment 03_04\\2\\File-System\\volume.cpp\"",
+  "file": "C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/volume.cpp",
+  "output": "CMakeFiles/main.dir/volume.cpp.obj"
+}
+]
