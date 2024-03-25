@@ -1,0 +1,3 @@
+C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build/CMakeFiles/main.dir
+C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build/CMakeFiles/edit_cache.dir
+C:/Users/Phuoc Hoan/OneDrive - VNU-HCMUS/Work Space/My Uni/Operating Systems/Exercise/Assignment 03_04/2/File-System/build/CMakeFiles/rebuild_cache.dir
